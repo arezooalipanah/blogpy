@@ -1,1 +1,5 @@
 .idea/
+blogpy/__pycache__/settings.cpython-38.pyc
+.gitignore
+db.sqlite3
+blog/migrations
